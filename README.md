@@ -1,14 +1,10 @@
 ## Recomendaciones
 
 
-####  1. Creacion de entorno virtual 
+####  1. Creacion de entorno virtual (Py3)
 
-####  2. Instalacion de dependencias 
+####  2. Instalacion de dependencias (Fast Api)
 
-- Documentacion necesaria
-
-```
-https://fastapi.tiangolo.com/virtual-environments/#create-a-virtual-environment
-```
+- [Documentacion necesaria](https://www.github.com/octokatherine)
 
 
