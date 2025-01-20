@@ -5,6 +5,7 @@
 
 ####  2. Instalacion de dependencias (Fast Api)
 
-[DocumentacionFastAPI](https://www.github.com/octokatherine](https://fastapi.tiangolo.com/virtual-environments/#create-a-virtual-environment)
+
+[DocumentacionFastAPI](https://www.github.com/octokatherine](https://fastapi.tiangolo.com/virtual-environments/#create-a-virtual-environment/)
 
 
